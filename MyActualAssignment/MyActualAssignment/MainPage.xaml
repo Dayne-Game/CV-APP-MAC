@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyActualAssignment.MainPage"
+             NavigationPage.BackButtonTitle="Hello"
+             NavigationPage.HasNavigationBar="False"
+             >
+    <StackLayout>
+    <ScrollView>
+        <Grid RowSpacing="0">
+            <Grid.RowDefinitions>
+                <!-- Grid.Row="0" -->
+                <RowDefinition Height="374" />
+                <!-- Grid.Row="1" -->
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <!-- Header Background -->
+            <Image Source="HeaderBackground" Grid.Row="0" Aspect="AspectFill" />
+
+            <!-- Profile Image with Name and Tagline -->
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0">
+                <Image Source="Profile" HeightRequest="120" WidthRequest="120" />
+                <StackLayout>
+                    <Label Text="Dayne Game" Style="{StaticResource ProfileNameLabel}" />
+                    <Label Text="iOS Developer / Web Developer" Style="{StaticResource ProfileTagLabel}" />
+                </StackLayout>
+            </StackLayout>
+
+            <!-- Grid for the Main Content Part of the Application -->
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="AUTO" />
+                    <RowDefinition Height="AUTO" />
+                    <RowDefinition Height="AUTO" />
+                    <RowDefinition Height="AUTO" />
+                </Grid.RowDefinitions>
+
+                <!-- Skill Set Button -->
+                <Button Text="Skill Set" FontSize="20" TextColor="#2CB2F9" Margin="20,20,10,20" HeightRequest="80" Grid.Column="0" BackgroundColor="#F4F4F4" Clicked="GoToSkillPage_Clicked" />
+                <!-- Projects Button -->
+                <Button Text="Projects" FontSize="20" TextColor="#2CB2F9" Margin="10,20,20,20" HeightRequest="80" Grid.Column="1" BackgroundColor="#F4F4F4" />
+
+                <!-- Social Media Title -->
+                <Label Text="Social Media" Grid.Row="1" FontSize="25" TextColor="#2CB2F9" Margin="20,0,0,10" Grid.Column="0" Grid.ColumnSpan="2" />
+
+                <!-- Social Media Links -->
+                <StackLayout Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2">
+                    <Button Text="Skill Set" FontSize="20" TextColor="#2CB2F9" BackgroundColor="#F4F4F4" Padding="25" Margin="20,0,20,10" HeightRequest="70" />
+                    <Button Text="Projects" FontSize="20" TextColor="#2CB2F9" BackgroundColor="#F4F4F4"  Padding="25" Margin="20,0,20,10" HeightRequest="70" />
+                    <Button Text="Skill Set" FontSize="20" TextColor="#2CB2F9" BackgroundColor="#F4F4F4" Padding="25" Margin="20,0,20,10" HeightRequest="70" />
+                </StackLayout>
+
+                <!-- Contact Me Button -->
+                <Button Text="Contact Me" FontSize="20" TextColor="White" BackgroundColor="#2C9CF9" CornerRadius="25" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="20,10,20,20" />
+
+            </Grid>
+        </Grid>
+    </ScrollView>
+        </StackLayout>
+
+</ContentPage>

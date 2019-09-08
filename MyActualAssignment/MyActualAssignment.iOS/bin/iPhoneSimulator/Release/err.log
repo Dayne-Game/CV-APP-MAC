@@ -1,0 +1,8 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-09-08 12:15:50.923373+1200 MyActualAssignment.iOS[2370:51783] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=2370
+2019-09-08 12:15:50.923830+1200 MyActualAssignment.iOS[2370:51783] SecTaskCopyDebugDescription: MyActualAssignme[2370]/0#-1 LF=0
+2019-09-08 12:15:54.374819+1200 MyActualAssignment.iOS[2370:51783] [AXMediaCommon] Unable to look up screen scale
+2019-09-08 12:15:54.374993+1200 MyActualAssignment.iOS[2370:51783] [AXMediaCommon] Unexpected physical screen orientation
+2019-09-08 12:15:54.460368+1200 MyActualAssignment.iOS[2370:51783] [AXMediaCommon] Unable to look up screen scale
+2019-09-08 12:15:54.469801+1200 MyActualAssignment.iOS[2370:51783] [AXMediaCommon] Unable to look up screen scale
+2019-09-08 12:15:54.469942+1200 MyActualAssignment.iOS[2370:51783] [AXMediaCommon] Unexpected physical screen orientation

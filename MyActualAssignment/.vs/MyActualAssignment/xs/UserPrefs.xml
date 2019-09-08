@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4886492F-2F93-4076-A848-968A54AFE24E}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyActualAssignment.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.69A8B2FC-145E-4BA7-8FE3-6F989189C0C6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyActualAssignment/App.xaml.cs">
+    <Files>
+      <File FileName="MyActualAssignment/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="MyActualAssignment/App.xaml" Line="1" Column="1" />
+      <File FileName="MyActualAssignment/App.xaml.cs" Line="15" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyActualAssignment" expanded="True">
+            <Node name="MyActualAssignment" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SkillSetPage.xaml" expanded="True" />
+            </Node>
+            <Node name="MyActualAssignment.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyActualAssignment.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

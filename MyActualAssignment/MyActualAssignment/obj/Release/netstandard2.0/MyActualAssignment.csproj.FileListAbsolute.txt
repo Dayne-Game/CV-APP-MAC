@@ -1,0 +1,12 @@
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/bin/Release/netstandard2.0/MyActualAssignment.deps.json
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/bin/Release/netstandard2.0/MyActualAssignment.dll
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/bin/Release/netstandard2.0/MyActualAssignment.pdb
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/SkillSetPage.xaml.g.cs
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/MyActualAssignment.csproj.CoreCompileInputs.cache
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/MyActualAssignment.AssemblyInfoInputs.cache
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/MyActualAssignment.AssemblyInfo.cs
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/XamlC.stamp
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/MyActualAssignment.dll
+/Users/dayne-game/Projects/MyActualAssignment/MyActualAssignment/obj/Release/netstandard2.0/MyActualAssignment.pdb
